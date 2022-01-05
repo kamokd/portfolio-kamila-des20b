@@ -1,0 +1,219 @@
+body {
+    padding: 0;
+   background-color:#f6fde8 ;
+   margin:0 ; 
+   color: rgb(44, 40, 40);
+   font-family: 'Margarine', cursive;
+   letter-spacing: 3%; 
+}
+*{
+    box-sizing: border-box;
+}
+.container{
+    width: 1110px;
+    margin: 0 auto;  
+}
+
+.header{
+    padding-top: 72px;  
+}
+
+.header-cont{
+    display: flex;
+    justify-content: space-between;
+}
+.mail:hover{
+    color: cadetblue;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 72px;
+}
+a{
+    color: rgb(44, 32, 32);
+    text-decoration: none;
+}
+.me{
+
+}
+.op{
+    margin-bottom: 21px;
+    font-size: 2em;
+font-weight: bold;
+margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.name{
+    font-size: 3em;
+    letter-spacing: 0.1em;
+    color: #A6384C;
+    font-weight: bold;
+}
+.btn{
+    color: #ffffff;
+    background: #768C70;
+    font-size: 30px;
+    padding: 25px 40px;
+    display: block;
+    width: 200px;
+    text-align: center;
+    border-radius: 50%;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+.btn:hover{
+    background: #60745a;
+    color: cadetblue;
+}
+.aboutme{
+    padding: 30px;
+    font-size: 30px;
+    width: 441px;
+    margin-bottom: 100px;
+    color: rgb(44, 40, 40);
+    font-weight: normal;
+    border-radius: 10%;
+}
+.intro-title{
+    margin-bottom: 20px ;
+    color: #A6384C;
+}
+.ya{
+  width: 540px;
+  height: 790px;
+  border-radius: 10%; 
+}
+.pt2{
+    color: #A6384C;
+   text-align: center;
+    margin-bottom: 92px;
+    margin-top: 70px;
+    font-size: 50px;
+}
+.container3{
+    width: 1110px;
+    margin: 0 auto;  
+}
+
+
+
+
+.w1{
+    width: 620px;
+    height: 350px; 
+    margin-bottom: 30px;
+    margin-right: 30px;
+    border-radius: 14%;
+}
+.w2{
+    width: 400px;
+    height: 490px;  
+    margin-left: 40px;
+    margin-bottom: 30px;
+    border-radius: 14%;
+}
+.w3{
+    width: 620px;
+    height:450px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    border-radius: 14%;
+}
+.w4{
+    width: 300px;
+    height: 490px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    border-radius: 14%;
+}
+.w5{
+    width: 520px;
+    height: 350px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    border-radius: 14%;
+}
+.w6{
+    width: 420px;
+    height: 350px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    border-radius: 14%;
+}
+.w7{
+    width: 480px;
+    height: 460px;
+    margin-bottom: 70px;
+    border-radius: 14%;
+}
+.w8{
+    width: 450px;
+    height: 480px;
+    margin-left: 30px;
+    margin-bottom: 70px;
+    border-radius: 14%;
+}
+
+
+.w1:hover{
+    width: 630px;
+    height: 360px;
+}
+.w2:hover{
+    width: 410px;
+    height: 500px;
+}
+.w3:hover{
+    width: 630px;
+    height:460px;
+}
+.w4:hover{
+    width: 310px;
+    height: 500px;
+}
+.w5:hover{
+    width: 530px;
+    height: 360px;
+}
+.w6:hover{
+    width: 430px;
+    height: 360px;
+}
+.w7:hover{
+    width: 490px;
+    height: 470px;
+}
+.w8:hover{
+    width: 460px;
+    height: 490px;
+}
+.comment{
+    margin-bottom: 400px;
+    margin-top: 200px;
+    text-align: center;
+}
+.exp{
+    font-size: 30px;
+    
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: rgb(44, 40, 40);
+    font-weight: normal;
+    border-radius: 10%;
+    text-align: center;
+}
+.gas{
+  font-weight: bold;
+  font-size: 40px;
+  color: #A6384C;
+}
+.iluv{
+    color: lightskyblue;
+    align-content: center;
+}
